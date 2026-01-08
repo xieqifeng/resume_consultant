@@ -14,7 +14,9 @@
   <a href="#快速开始">快速开始</a> •
   <a href="#技术架构">技术架构</a> •
   <a href="#配置说明">配置说明</a> •
-  <a href="#贡献指南">贡献指南</a>
+  <a href="#贡献指南">贡献指南</a> •
+  <a href="#UI展示">UI 展示</a> •
+  <a href="#公众号">公众号</a>
 </p>
 
 <p align="center">
@@ -244,6 +246,28 @@ NEXT_PUBLIC_API_URL=http://localhost:8002
 3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 创建 Pull Request
+
+---
+
+<a id="UI展示"></a>
+## 🖼️ UI 展示
+
+<p align="center">
+  <img src="assets/readme/ui.png" alt="UI 展示" width="900">
+</p>
+
+---
+
+<a id="公众号"></a>
+## 📮 公众号
+
+<p align="center">
+  <img src="assets/readme/wechat_qrcode.jpg" alt="公众号二维码" width="260">
+</p>
+
+<p align="center">
+  <strong>爱折腾的X</strong>
+</p>
 
 ---
 
